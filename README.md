@@ -20,3 +20,7 @@ Concepts Learned : - Single level inheritance in Java
                    - Multi-level inheritance in Java
                    - Method Overriding and use of final and super keyword in java
                    - Dynamic Method Dispatch
+
+Lab-04:
+Concepts Learned : – Abstract class in Java
+                   – Interface in Java
